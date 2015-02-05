@@ -3,7 +3,9 @@ package com.ira.domain;
 /**
  * Created by Iryna on 2/5/15.
  */
+
 public class AddressBook {
+
     private int id;
     private String firstName;
     private String lastName;
